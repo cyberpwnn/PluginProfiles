@@ -1,0 +1,6 @@
+main: com.glacialrush.pluginprofiles.PluginProfiles
+name: PluginProfiles
+version: 1.0
+commands:
+  pluginprofiles:
+    aliases: [pp, profile, prof]
